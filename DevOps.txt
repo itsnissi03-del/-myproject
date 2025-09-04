@@ -22,5 +22,7 @@ Release -  approach the build for deployment
 Deploy - push app to server or app store 
 Operate -  keep app running, fix any issues
 Monitor -  analyze performance & feedback
-  cycle continues: feedback to users -> back to plan
+  cycle continues: feedback to users -> back to plan 
+written by nissi
+
 
