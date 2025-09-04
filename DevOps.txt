@@ -1,0 +1,26 @@
+1.DevOps:
+DevOps=Development + operation
+it is a culture + set of practices + tools that help
+developers (who write code)
+operations ( who deploy/ manage systems)
+work together instead of working in silos.
+Real-Time example
+imagine you're building a mobile app like  Swiggy
+the developers writes code to add "track my order"
+without DevOps: they give code to opposite team-> they manually deploy-> bugs happen -> delays
+with DevOps : code is automatically tested & deployed-> customer get updated faster & safely
+Develops help you
+release feature faster ( new payment methods)
+fix bugs quickly(login issues)
+automate repetitive tasks(like server restarts, database backups)
+2.8 phases of DevOps LIFE-CYCLE:
+ plan - define what to build
+ Develop - write the code
+Build - compile code into deployable format
+test - checks for bugs automatically
+Release -  approach the build for deployment
+Deploy - push app to server or app store 
+Operate -  keep app running, fix any issues
+Monitor -  analyze performance & feedback
+  cycle continues: feedback to users -> back to plan
+
